@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on ... Relearning Back end development
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=anthourn&repo=dev.to)](https://github.com/anthourn/dev.to)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=anthourn&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
 
 <!--
 - 🌱 I’m currently learning ...
